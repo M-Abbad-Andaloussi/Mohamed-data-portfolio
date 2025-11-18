@@ -5,7 +5,8 @@
 Welcome to my Data Analytics & Data Science Portfolio.
 Here you’ll find real-world projects combining machine learning, data cleaning, visualization, forecasting, and business insights.
 
-🚀 Featured Projects
+🚀 Featured Projects:
+
 🔵 1. IKEA Inventory Forecasting & Optimization
 
 Tools: Python, ARIMA, Pandas, Power BI
