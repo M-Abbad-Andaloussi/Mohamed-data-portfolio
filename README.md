@@ -16,6 +16,7 @@ Time-series forecasting
 ABC classification + stock rules
 
 Dashboard for decision-making
+
 📁 Project coming soon
 
 🟣 2. Fraud Detection with Machine Learning
@@ -25,6 +26,7 @@ Tools: K-Means, DBSCAN, SOM
 Clustering & anomaly detection
 
 Fraud insights & pattern discovery
+
 📁 Project coming soon
 
 🟠 3. Global Freelancers BI Dashboard
@@ -34,6 +36,7 @@ Tools: Python, Power BI
 Data cleaning & ETL
 
 Revenue KPIs, categories, region analysis
+
 📁 Project coming soon
 
 
