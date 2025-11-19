@@ -5,47 +5,31 @@ This project demonstrates a full workflow, from data cleaning with Python, to ex
 
 ## 🔧 Techniques & Tools Used
 🔹 Python (Pandas) — Data Cleaning & Preparation
-
-Imported and inspected raw freelancer data
-
-Cleaned and standardized inconsistent text fields
-
-Normalized categories (skills, gender, country)
-
-Handled missing values and corrected data types
-
-Detected and treated outliers (IQR method)
-
-Exported a fully cleaned dataset for BI processing
+- Imported and inspected raw freelancer data
+- Cleaned and standardized inconsistent text fields
+- Normalized categories (skills, gender, country)
+- Handled missing values and corrected data types
+- Detected and treated outliers (IQR method)
+- Exported a fully cleaned dataset for BI processing
 
 🔹 Exploratory Data Analysis (EDA)
-
-Explored hourly rate distribution
-
-Compared skill categories and earning potential
-
-Analyzed geographic pricing differences
-
-Examined the relationship between experience and hourly rate
-
-Visualized insights using Matplotlib
+- Explored hourly rate distribution
+- Compared skill categories and earning potential
+- Analyzed geographic pricing differences
+- Examined the relationship between experience and hourly rate
+- Visualized insights using Matplotlib
 
 🔹 Power BI — Interactive Dashboard
-
-Designed KPI cards for quick insights
-
-Built visual analysis of top-paying skills
-
-Created regional earnings breakdown
-
-Added slicers for dynamic exploration (skill, gender, satisfaction, country)
-
-Structured a professional dashboard highlighting key business findings
+- Designed KPI cards for quick insights
+- Built visual analysis of top-paying skills
+- Created regional earnings breakdown
+- Added slicers for dynamic exploration (skill, gender, satisfaction, country)
+- Structured a professional dashboard highlighting key business findings
 
 ## 📂 Project Contents
 
 📘 Python Notebook
-/notebook/global_freelancers_data_cleaning_eda.ipynb
+/notebook/freelancers_data_pipeline.ipynb
 → Full data cleaning workflow + detailed EDA visualizations
 
 📁 Clean Dataset (CSV)
@@ -57,9 +41,9 @@ Structured a professional dashboard highlighting key business findings
 → Contains KPIs, insights, interactive visuals, and advanced filtering
 
 📄 Final PDF Report
-/report/Global_Freelancers_Report.pdf
+/report/Report-Freelancers-Dashboard.pdf
 → Complete written analysis with screenshots and business recommendations
 
 🖼 Dashboard Screenshots (optional)
-/screenshots/
+/screenshots/screenshots_Dashboard
 → High-quality captures of the Power BI visuals
