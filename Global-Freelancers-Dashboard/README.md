@@ -44,6 +44,6 @@ This project demonstrates a full workflow, from data cleaning with Python, to ex
 /report/Report-Freelancers-Dashboard.pdf
 → Complete written analysis with screenshots and business recommendations
 
-🖼 Dashboard Screenshots (optional)
+🖼 Dashboard Screenshots
 /screenshots/screenshots_Dashboard
 → High-quality captures of the Power BI visuals
