@@ -31,13 +31,16 @@ Fraud insights & pattern discovery
 
 🟠 3. Global Freelancers BI Dashboard
 
-Tools: Python, Power BI
+Tools: Python (Pandas, Numpy, Matplotlib), Power BI
 
-Data cleaning & ETL
+Key Work:
+- Data cleaning, preprocessing & transformation
+- KPI creation (revenue, categories, geographic variation)
+- Exploratory Data Analysis (EDA)
+- Interactive dashboard with insights
+- Final PDF report + Power BI file
 
-Revenue KPIs, categories, region analysis
-
-📁 Project coming soon
+📁 Project fully available in repository
 
 
 🛠️ Technical Skills
