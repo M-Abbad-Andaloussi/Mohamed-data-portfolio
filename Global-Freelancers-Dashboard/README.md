@@ -1,9 +1,9 @@
-📊 Global Freelancers BI Dashboard
+# 📊 Global Freelancers BI Dashboard
 
 A complete end-to-end Data Analytics & Business Intelligence project analyzing the global freelancers market.
 This project demonstrates a full workflow, from data cleaning with Python, to exploratory data analysis (EDA), and finally the creation of an interactive Power BI dashboard for business insights.
 
-🔧 Techniques & Tools Used
+## 🔧 Techniques & Tools Used
 🔹 Python (Pandas) — Data Cleaning & Preparation
 
 Imported and inspected raw freelancer data
@@ -42,7 +42,7 @@ Added slicers for dynamic exploration (skill, gender, satisfaction, country)
 
 Structured a professional dashboard highlighting key business findings
 
-📂 Project Contents
+## 📂 Project Contents
 
 📘 Python Notebook
 /notebook/global_freelancers_data_cleaning_eda.ipynb
