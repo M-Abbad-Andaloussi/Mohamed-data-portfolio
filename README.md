@@ -54,6 +54,6 @@ BI: Power BI, Excel, Knime
 
 📬 Contact
 
-📧 Email: mohamed.abbad.andaloussi@gmail.com
+📧 Email: mohamed.abbad-andaloussi@uir.ac.ma
 
 🔗 LinkedIn: www.linkedin.com/in/mohamed-abbad-andaloussi-8b9849226
