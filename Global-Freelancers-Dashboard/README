@@ -1,0 +1,16 @@
+# Global Freelancers BI Dashboard
+
+This project builds a complete BI pipeline to analyze global freelancers' performance.
+
+### 🔧 Techniques Used
+- Data cleaning and transformation with **Python (Pandas)**
+- Creation of KPIs (revenue, country, category, client metrics)
+- Interactive dashboard using **Power BI**
+
+### 📂 Contents
+- Python scripts / notebooks for ETL
+- Power BI (.pbix) file (coming soon)
+- Screenshots of dashboards and main insights
+
+More files will be uploaded soon.
+
