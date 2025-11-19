@@ -1,16 +1,65 @@
-# Global Freelancers BI Dashboard
+📊 Global Freelancers BI Dashboard
 
-This project builds a complete BI pipeline to analyze global freelancers' performance.
+A complete end-to-end Data Analytics & Business Intelligence project analyzing the global freelancers market.
+This project demonstrates a full workflow, from data cleaning with Python, to exploratory data analysis (EDA), and finally the creation of an interactive Power BI dashboard for business insights.
 
-### 🔧 Techniques Used
-- Data cleaning and transformation with **Python (Pandas)**
-- Creation of KPIs (revenue, country, category, client metrics)
-- Interactive dashboard using **Power BI**
+🔧 Techniques & Tools Used
+🔹 Python (Pandas) — Data Cleaning & Preparation
 
-### 📂 Contents
-- Python scripts / notebooks for ETL
-- Power BI (.pbix) file (coming soon)
-- Screenshots of dashboards and main insights
+Imported and inspected raw freelancer data
 
-More files will be uploaded soon.
+Cleaned and standardized inconsistent text fields
 
+Normalized categories (skills, gender, country)
+
+Handled missing values and corrected data types
+
+Detected and treated outliers (IQR method)
+
+Exported a fully cleaned dataset for BI processing
+
+🔹 Exploratory Data Analysis (EDA)
+
+Explored hourly rate distribution
+
+Compared skill categories and earning potential
+
+Analyzed geographic pricing differences
+
+Examined the relationship between experience and hourly rate
+
+Visualized insights using Matplotlib
+
+🔹 Power BI — Interactive Dashboard
+
+Designed KPI cards for quick insights
+
+Built visual analysis of top-paying skills
+
+Created regional earnings breakdown
+
+Added slicers for dynamic exploration (skill, gender, satisfaction, country)
+
+Structured a professional dashboard highlighting key business findings
+
+📂 Project Contents
+
+📘 Python Notebook
+/notebook/global_freelancers_data_cleaning_eda.ipynb
+→ Full data cleaning workflow + detailed EDA visualizations
+
+📁 Clean Dataset (CSV)
+/data/global_freelancers_clean.csv
+→ Ready-to-use dataset imported into Power BI
+
+📊 Power BI Dashboard (.pbix)
+/powerbi/global_freelancers_dashboard.pbix
+→ Contains KPIs, insights, interactive visuals, and advanced filtering
+
+📄 Final PDF Report
+/report/Global_Freelancers_Report.pdf
+→ Complete written analysis with screenshots and business recommendations
+
+🖼 Dashboard Screenshots (optional)
+/screenshots/
+→ High-quality captures of the Power BI visuals
